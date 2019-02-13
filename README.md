@@ -1,4 +1,4 @@
-# go-ddig
+# go-gdig
 global container for uber/dig
 
 ## Why
